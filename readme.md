@@ -1,4 +1,8 @@
 ## Les 04
 ### Mijn remote repository
 
-# markdown en github leren
+1. kaas
+1. pizza 
+1. melk
+	1. magere
+	1. karne
